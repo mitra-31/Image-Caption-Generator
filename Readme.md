@@ -7,7 +7,10 @@
 
 ## Pre-requisites
 
--- [ ] Numpy
--- [ ] Pandas
--- [ ] Kears
--- [ ] Pillow
+-- [ ] Numpy  
+
+-- [ ] Pandas  
+
+-- [ ] Kears  
+
+-- [ ] Pillow  
