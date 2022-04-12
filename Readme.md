@@ -41,18 +41,13 @@ Any advise for common problems or issues.
 command to run if program contains helper info
 ``` -->
 
-## Authors
+## Team Memebers
 
-Contributors names and contact info
+<a href="https://github.com/mitra-31/Image-Caption-Generator/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=mitra-31/Image-Caption-Generator" />
+</a>
 
-B Pavani Kumari
-[@]()
-
-Madhuri G 
-[@madhuri](https://www.linkedin.com/in/madhuri-g-2b81961b6/)
-
-Thammineni Pushyamitra  
-[@mitra-31](https://www.linkedin.com/in/thammineni-pushyamitra-5550821b9/)
+Made with [contrib.rocks](https://contrib.rocks).
 
 ## Version History
 
