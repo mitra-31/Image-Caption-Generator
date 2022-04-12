@@ -52,7 +52,7 @@ Madhuri G
 [@madhuri](https://www.linkedin.com/in/madhuri-g-2b81961b6/)
 
 Thammineni Pushyamitra  
-[@mitra-31]()
+[@mitra-31](https://www.linkedin.com/in/thammineni-pushyamitra-5550821b9/)
 
 ## Version History
 
