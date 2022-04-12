@@ -49,7 +49,7 @@ B Pavani Kumari
 [@]()
 
 Madhuri G
-[@madhuri]()
+[@madhuri](https://www.linkedin.com/in/madhuri-g-2b81961b6/)
 
 Thammineni Pushyamitra  
 [@mitra-31]()
